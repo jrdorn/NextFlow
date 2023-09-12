@@ -1,0 +1,16 @@
+PODS:
+  - sharedNextFlow (1.0)
+
+DEPENDENCIES:
+  - sharedNextFlow (from `../sharedNextFlow`)
+
+EXTERNAL SOURCES:
+  sharedNextFlow:
+    :path: "../sharedNextFlow"
+
+SPEC CHECKSUMS:
+  sharedNextFlow: 28f180de9e9f9a971f8b651ccd95577fe80c549c
+
+PODFILE CHECKSUM: b594dac728a4d24b46198806173c3376b94b4446
+
+COCOAPODS: 1.12.1

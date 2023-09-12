@@ -1,0 +1,5 @@
+target 'iosNextFlow' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'sharedNextFlow', :path => '../sharedNextFlow'
+end

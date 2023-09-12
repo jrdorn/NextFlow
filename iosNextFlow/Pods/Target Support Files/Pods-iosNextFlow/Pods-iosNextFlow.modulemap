@@ -1,0 +1,6 @@
+framework module Pods_iosNextFlow {
+  umbrella header "Pods-iosNextFlow-umbrella.h"
+
+  export *
+  module * { export * }
+}
